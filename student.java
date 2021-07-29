@@ -1,3 +1,12 @@
+/*Create a Java class called Student with the following details as variables within it. 
+(i) USN 
+(ii) Name 
+(iii) Programme 
+(iv) Phone 
+Write a Java program to create nStudent objects and print the USN, Name, Programme, and 
+Phoneof these objects with suitable headings.
+*/
+
 package lab1a;
 
 import java.util.Scanner;
