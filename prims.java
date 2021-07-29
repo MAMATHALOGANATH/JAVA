@@ -1,3 +1,6 @@
+/*Find Minimum Cost Spanning Tree of a given connected undirected graph using 
+Prim's algorithm.*/
+
 package prims;
 
 import java.util.Scanner;
