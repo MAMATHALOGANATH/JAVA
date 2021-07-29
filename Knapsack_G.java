@@ -1,3 +1,4 @@
+/*Implement in Java, the 0/1 Knapsack problem using Greedy method.*/
 package knapsack;
 
 import java.util.Scanner;
